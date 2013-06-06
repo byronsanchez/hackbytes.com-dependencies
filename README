@@ -1,14 +1,11 @@
-        hackbytes.com-dependencies d0.1 for hackbytes.com v0.1
+        hackbytes.com-dependencies d0.1 <http://hackbytes.com>
 
 This is the submodule repository containing tools used by hackbytes.com.
 The master repository can be found at:
 
-http://github.com/byronsanchez/hackbytes.com
+  http://github.com/byronsanchez/hackbytes.com
 
 INSTRUCTIONS
-
-  To use this as a dependency for hackbytes.com, you must add this to the
-  vendor/ directory of the hackbytes.com root directory.
 
   To add this repository to the hackbytes.com repository as a submodule:
 
@@ -52,7 +49,7 @@ STRUCTURE
     src/      - contains source code for any application whose license
                 requires the distribution of its source code.
 
-    closure-compiler.jar - A javscript compiler.
+    closure-compiler.jar - A JavaScript compiler.
 
     jekyll/   - A customized version of Jekyll that allows us to
                 override a few core elements so hackbytes.com can
