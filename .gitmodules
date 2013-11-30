@@ -1,0 +1,3 @@
+[submodule "src/classifier"]
+	path = src/classifier
+	url = https://github.com/cardmagic/classifier.git
